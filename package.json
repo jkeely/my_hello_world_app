@@ -1,0 +1,19 @@
+{
+  "name": "my_hello_world_app",
+  "version": "1.0.0",
+  "description": "My package.json file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkeely/my_hello_world_app.git"
+  },
+  "author": "John Keely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkeely/my_hello_world_app/issues"
+  },
+  "homepage": "https://github.com/jkeely/my_hello_world_app#readme"
+}
